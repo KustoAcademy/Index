@@ -1,4 +1,4 @@
-# Index
+# Topics
 
 ### 1) KQL Fundamentals and Exploring Data
 - Overview of KQL
